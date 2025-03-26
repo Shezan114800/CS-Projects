@@ -13,7 +13,7 @@
 
 6. Import hms.sql file _(given inside the zip package in SQL file folder)_
 
-7.Run the script http://localhost/hospital (frontend)
+7. Run the script http://localhost/hospital (frontend)
 
 **Login Details**
 - Login Details for admin: admin/Test@12345
