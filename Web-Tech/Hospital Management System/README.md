@@ -1,5 +1,5 @@
 
-#How to run the Hospital Management System (HMS) Project
+# How to run the Hospital Management System (HMS) Project
 
 1. Download the  zip file
 
