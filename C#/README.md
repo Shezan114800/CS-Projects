@@ -1,5 +1,5 @@
 
-# Title of Project: Blood Bank management system
+# Title of Project: Blood Bank Management System
 
 
 
