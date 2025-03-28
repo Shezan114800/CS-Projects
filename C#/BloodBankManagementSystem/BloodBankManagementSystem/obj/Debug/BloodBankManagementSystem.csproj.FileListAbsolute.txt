@@ -1,0 +1,12 @@
+c:\users\sheza\documents\visual studio 2015\Projects\BloodBankManagementSystem\BloodBankManagementSystem\bin\Debug\BloodBankManagementSystem.exe.config
+c:\users\sheza\documents\visual studio 2015\Projects\BloodBankManagementSystem\BloodBankManagementSystem\bin\Debug\BloodBankManagementSystem.exe
+c:\users\sheza\documents\visual studio 2015\Projects\BloodBankManagementSystem\BloodBankManagementSystem\bin\Debug\BloodBankManagementSystem.pdb
+c:\users\sheza\documents\visual studio 2015\Projects\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.csprojResolveAssemblyReference.cache
+c:\users\sheza\documents\visual studio 2015\Projects\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.Properties.Resources.resources
+c:\users\sheza\documents\visual studio 2015\Projects\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.csproj.GenerateResource.Cache
+c:\users\sheza\documents\visual studio 2015\Projects\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.exe
+c:\users\sheza\documents\visual studio 2015\Projects\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.pdb
+C:\Users\sheza\documents\visual studio 2015\Projects\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.homeView.resources
+C:\Users\sheza\documents\visual studio 2015\Projects\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.Views.userView.resources
+C:\Users\sheza\documents\visual studio 2015\Projects\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.Views.donorView.resources
+C:\Users\sheza\documents\visual studio 2015\Projects\BloodBankManagementSystem\BloodBankManagementSystem\obj\Debug\BloodBankManagementSystem.Views.loginView.resources
